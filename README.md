@@ -4,7 +4,7 @@ An animation built in Flutter using CustomPaint and the Canvas to create an amor
 
 ## Example
 
-![Metaball example](https://j.gifs.com/zvGMqm.gif)
+![Metaball example](metaball.gif)
 
 ## How to Run
 
